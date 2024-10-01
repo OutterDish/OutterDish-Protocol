@@ -30,3 +30,6 @@
 ### Add a new contract
 
 `npx blueprint create ContractName` or `yarn blueprint create ContractName`
+
+
+![tab1](./pic0.png)
